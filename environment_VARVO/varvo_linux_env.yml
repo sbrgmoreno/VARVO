@@ -1,0 +1,4 @@
+name: VAVO_LINUX
+channels:
+  - defaults
+prefix: /home/mario/miniconda3/envs/VAVO_LINUX
