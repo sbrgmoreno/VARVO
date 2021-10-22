@@ -73,7 +73,7 @@ Then VARVO program can be executed. For the correct use of VARVO check [VARVO an
 In Windows operating system it is easy to onstall all dependencies that VARVO needs. Please, following these steps:
 
  1. Download and install miniconda through following link: [miniconda](https://docs.conda.io/en/latest/miniconda.html)
-2. Open the miniconda command prompt, the prompt will look like: ![command prompt example](https://drive.google.com/file/d/18LCJ2KxhbXVd7Lju7O1cbblVKQTj6ltc/view?usp=sharing)
+2. Open the miniconda command prompt, the prompt will look like: [command prompt example](https://drive.google.com/file/d/18LCJ2KxhbXVd7Lju7O1cbblVKQTj6ltc/view?usp=sharing)
 3. Install the VARVO environment with the following line: ``conda env create -f path_of_VARVO_program/environment_VARVO/varvo_linux_env.yml`` or ``conda env create -f path_of_VARVO_program/environment_VARVO/varvo_env.yml``
 
 Then VARVO program can be executed, for the correct use of VARVO check [VARVO analysis workflow](#varvo-analysis-workflow)
